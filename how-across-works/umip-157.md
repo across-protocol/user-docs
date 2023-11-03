@@ -2,7 +2,7 @@
 
 The Across smart contracts plus the [UMIP](https://github.com/UMAprotocol/UMIPs/blob/master/UMIPs/umip-157.md) provide the fundamental rules of the Across Protocol. The Relayer and Dataworker are simply roles that anyone can assume in exchange for earning rewards and securing the system.
 
-Risk labs provides [open source, opinionated implementations of the Relayer and Dataworker](https://github.com/across-protocol/relayer-v2/tree/master) but there technically many ways to customize the behavior of the software.
+Risk labs provides [open source, opinionated implementations of the Relayer and Dataworker](https://github.com/across-protocol/relayer-v2/tree/master) but there are technically many ways to customize the behavior of the software.
 
 ## Who should care about UMIP-157
 
