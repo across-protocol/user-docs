@@ -129,7 +129,7 @@ Visit the rewards page often and check out ‘My transfers’ at the bottom of t
 
 <figure><img src="../../.gitbook/assets/8 (1).png" alt=""><figcaption></figcaption></figure>
 
-### Step 3: Create strategies to build your referral network and join the Referral Rangers on our offical Discord to trade tips and tricks with fellow referrers.
+### Step 3: Create strategies to build your referral network and join the Referral Rangers on our official Discord to trade tips and tricks with fellow referrers.
 
 Please note: Once someone completes a bridge transaction with your link, it will stay attached for all other transactions, unless they click someone else's link or you claim your referral rewards.&#x20;
 
