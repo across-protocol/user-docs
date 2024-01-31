@@ -30,6 +30,7 @@
 
 * [Governance Model](governance/governance-model.md)
 * [Proposals and Voting](governance/proposals-and-voting.md)
+* [ACX Emissions Committee](governance/acx-emissions-committee.md)
 
 ## Additional Info
 
