@@ -32,5 +32,6 @@ The AEC uses this framework to determine whether action needs to be taken on ETH
 
 ### Long-term Objective
 
-The AEC will set and manage a long term plan for ACX emissions to ensure the Across DAO does not deplete its treasury too quickly and has assets for future growth and other initiatives.
+The AEC will set and manage a long term plan for ACX emissions to ensure the Across DAO does not deplete its treasury too quickly and has assets for future growth and other initiatives.&#x20;
 
+Currently, the AEC is committed to not spending more than 400MM ACX (40% of all supply) in LP incentives and will ensure that this allocation will not be depleted before the end of 2028.
