@@ -23,7 +23,7 @@ After implementing any changes to the proposal based on feedback received in ste
 
 ### **Step 3: Formal vote (Snapshot)**
 
-Proposals that have been approved in step 2 are ready to be voted on and may be posted to snapshot with a 7-day voting period. A proposer must have a voting weight of at least 20,000 ACX in order to submit a proposal. If you do not meet the requirement for submitting a proposal, a qualified voter may post the proposal on your behalf if they wish to do so.&#x20;
+Proposals that have been approved in step 2 are ready to be voted on and may be posted to snapshot with a 7-day voting period. A proposer must have a voting weight of at least 50,000 ACX in order to submit a proposal. If you do not meet the requirement for submitting a proposal, a qualified voter may post the proposal on your behalf if they wish to do so.&#x20;
 
 ### **Step 4: Results**
 
