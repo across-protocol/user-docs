@@ -60,4 +60,12 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * WBTC
 * USDC
 * USDT
-* BAL
+* DAI
+
+### Linea
+
+* ETH/WETH
+* USDC
+* USDC
+* DAI
+* WBTC
