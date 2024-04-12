@@ -1,6 +1,6 @@
 # Supported Chains and Tokens
 
-Below is a list of the supported tokens for each of the chains that Across supports. In order to bridge tokens from one chain to another, the token being bridged must be support on both chains
+Below is a list of the supported tokens for each of the chains that Across supports. In order to bridge tokens from one chain to another, the token being bridged must be supported on both chains.
 
 ### **Ethereum**
 
@@ -9,7 +9,7 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * WBTC
 * DAI
 * USDC
-* BOBA
+* USDT
 * UMA
 * BAL
 * SNX
@@ -20,7 +20,8 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * ETH/WETH
 * WBTC
 * DAI
-* USDC
+* USDC (USDC.e)
+* USDT
 * UMA
 * BAL
 
@@ -31,9 +32,11 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * WBTC
 * DAI
 * USDC
+* USDT
 * UMA
 * SNX
 * BAL
+* POOL
 
 ### **Polygon**
 
@@ -42,6 +45,7 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * WBTC
 * DAI
 * USDC
+* USDT
 * BAL
 * UMA
 * BAL
@@ -51,21 +55,22 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 
 * ETH/WETH
 * DAI
-* USDC
+* USDC (USDbC)
 * BAL
 
 ### **ZkSync**
 
 * ETH/WETH
 * WBTC
+* DAI
 * USDC
 * USDT
-* DAI
+* BAL
 
-### Linea
+### **Linea**
 
 * ETH/WETH
-* USDC
-* USDC
-* DAI
 * WBTC
+* DAI
+* USDC
+* USDT

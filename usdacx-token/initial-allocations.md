@@ -1,4 +1,10 @@
-# Allocations
+---
+description: >-
+  The Across Protocol token, $ACX, was launched in November 2022. This section
+  outlines the allocations that were carried out at token launch.
+---
+
+# Initial Allocations
 
 ### _115MM ACX for Airdrop_&#x20;
 

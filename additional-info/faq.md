@@ -24,7 +24,7 @@ You can find this list on the [Supported Chains and Tokens page](https://docs.ac
 
 ### What tokens can I bridge with Across?
 
-Across currently supports bridging ACX, ETH, WETH, WBTC, USDC, DAI, BAL, BOBA, and UMA.
+Across currently supports bridging ACX, ETH, WETH, WBTC, USDC, DAI, BAL, POOL, SNX, and UMA.
 
 You can find this list on the [Supported Chains and Tokens page](https://docs.across.to/how-across-works/supported-chains-and-tokens).
 

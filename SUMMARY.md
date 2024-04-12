@@ -1,31 +1,28 @@
 # Table of contents
 
-* [Welcome to Across](README.md)
-
 ## How to Use Across
 
+* [About](README.md)
 * [Bridging](how-to-use-across/bridging.md)
-* [Providing Liquidity](how-to-use-across/providing-liquidity.md)
-* [Rewards](how-to-use-across/rewards/README.md)
-  * [Referral Rewards](how-to-use-across/rewards/referral-rewards.md)
-  * [Reward Locking](how-to-use-across/rewards/reward-locking.md)
-* [Transactions](how-to-use-across/transactions.md)
+* [Providing Bridge Liquidity](how-to-use-across/providing-bridge-liquidity.md)
+* [Protocol Rewards](how-to-use-across/protocol-rewards/README.md)
+  * [Referral Rewards](how-to-use-across/protocol-rewards/referral-rewards.md)
+  * [Reward Locking](how-to-use-across/protocol-rewards/reward-locking.md)
+* [Transaction History](how-to-use-across/transaction-history.md)
 
 ## How across works
 
 * [Overview](how-across-works/overview.md)
-* [User Roles](how-across-works/user-roles.md)
-* [How Across Guarantees Transfers](how-across-works/how-across-guarantees-transfers.md)
+* [Security](how-across-works/security.md)
 * [Fees](how-across-works/fees.md)
+* [Speed](how-across-works/speed.md)
 * [Supported Chains and Tokens](how-across-works/supported-chains-and-tokens.md)
-* [Security Model](how-across-works/security-model.md)
-* [UMIP-157](how-across-works/umip-157.md)
 
-## Token
+## 🪙 $ACX Token
 
-* [Token Overview](token/token-overview.md)
-* [Allocations](token/allocations.md)
-* [ACX Emissions Committee](token/acx-emissions-committee.md)
+* [Token Overview](usdacx-token/token-overview.md)
+* [Initial Allocations](usdacx-token/initial-allocations.md)
+* [ACX Emissions Committee](usdacx-token/acx-emissions-committee.md)
 
 ## Governance
 

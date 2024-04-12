@@ -16,7 +16,7 @@ Go to v1.across.to and switch to the pool tab
 
 In the upper right, you'll see a "Connect Wallet" button.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 Click this button and connect using your wallet provider.
 
@@ -50,4 +50,4 @@ Wait for the transaction to confirm and, once it has been confirmed, then your l
 
 ### Add v2 liquidity
 
-Once your liquidity has been removed, it can be added to the v2 pool by following the instructions in[ Providing Liquidity](../how-to-use-across/providing-liquidity.md#depositing-liquidity)
+Once your liquidity has been removed, it can be added to the v2 pool by following the instructions in[ Providing Liquidity](../how-to-use-across/providing-bridge-liquidity.md#depositing-liquidity)

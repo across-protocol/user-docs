@@ -15,7 +15,7 @@ The Across Governance process follows the pathway from ideation, to draft, to pr
 
 * [Forum](http://forum.across.to): A platform for discussion and deliberation on governance proposals
 * [Snapshot](https://snapshot.org/#/acrossprotocol.eth): A platform for where all governance proposals are submitted for vote
-* Optimistic Governance (future implementation): A mechanism for trustless execution of snapshot votes.
+* [oSnap](https://medium.com/across-protocol/welcome-optimistic-governance-838cc649c431): Optimistic governance for trustless execution of Snapshot votes.
 
 ### **Governance Participants:**
 
@@ -39,6 +39,8 @@ The Across Governance process follows the pathway from ideation, to draft, to pr
 * Voters – anyone who holds ACX, or ACX representative tokens that hold voting power, and participates actively in governance. See the list below for voting-eligible tokens.&#x20;
   * ACX (eth) = 1 vote
     * Address: 0x44108f0223A3C3028F5Fe7AEC7f9bb2E66beF82F
+  * ACX (optimism) = 1 vote
+    * Address: 0xFf733b2A3557a7ed6697007ab5D11B79FdD1b76B
   * ACX LP = 1 vote
     * ACX tokens that have been provided as bridging liquidity within Across Protocol
     * Address: 0xb0C8fEf534223B891D4A430e49537143829c4817

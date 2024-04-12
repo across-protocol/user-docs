@@ -1,34 +1,15 @@
 ---
-description: The Bridge Ethereum Deserves.
+description: Interoperability Powered by Intents
 ---
 
-# Welcome to Across
+# About
 
-_Across is a cross-chain bridge for L2s and rollups secured by UMA's optimistic oracle. It is optimized for capital efficiency with a single liquidity pool, a competitive relayer landscape, and a no-slippage fee model._
+Across is an interoperability protocol powered by intents. It is the only cross-chain intents protocol in production today, enabling the fastest and lowest-cost interoperability solution without security tradeoffs.\
+\
+Across Protocol is comprised of three products.
 
-### **Capital efficiency is the single most important measure of a cross-chain bridge.**&#x20;
+1. The Across Bridge, the most capital efficient cross-chain transfer solution for end users. Across' intents-based framework has proven to facilitate the fastest and cheapest bridging between L2s and Mainnet.
+2. Across+, is a chain abstraction tool that utilizes cross-chain bridge hooks to fulfill user intents. Across+ allows developers to integrate bridge + action(s) bundles at the dapp level to promote onboarding and abstract the bridging process away from end users.
+3. Across Settlement, is a settlement layer for all cross-chain intent order flow. Its optimistic design, which defers verification, focuses on gas optimization to significantly reduce cross-chain settlement costs for protocols and, ultimately, end users.
 
-Our [one liquidity pool](https://medium.com/p/28073565c14e) design along with an [interest rate fee model](https://medium.com/across-protocol/why-is-financial-engineering-important-in-bridging-102c3feac8a2) allows for lower costs for users and higher yields for liquidity providers. Across keeps the majority of its LP assets on mainnet, where it is most secure, and the protocol operates bots to rebalance between destinations using the canonical bridge. Across’ interest rate fee model is driven by the overall utilization of assets in its single liquidity pool which provides more consistent pricing.&#x20;
-
-### **Across utilizes one pool.**
-
-The Across Protocol keeps the majority of the LP assets on L1 mainnet, where it is most secure and maximally efficient.
-
-### Across is powered by a permissionless relayer ecosystem**.**&#x20;
-
-Across uses third-party _relayers_ that risk their own funds to bridge assets. These relayers can choose to move funds far faster than the origin or destination chain's finality times, allowing for “fast fills.” This means relayers can take calculated risks and compete with each other on speed to fill users' deposit requests.&#x20;
-
-### **Across is optimistic.**
-
-Across uses UMA’s optimistic oracle to confirm that transactions on all the chains are correct. If there is a transaction that is incorrect, it will be disputed and resolved by UMA tokenholders. It only requires a single honest actor to detect fraud.
-
-### **Across works smarter, not harder.**&#x20;
-
-Across checks if there are funds about to pass in opposite directions, and instead keeps them on the chain they are already on. Then, instead of waiting for arbitrageurs to fix price imbalances at the cost to the user, Across rebalances automatically every 4-8 hours.
-
-
-
-_In short, Across is building the bridge Ethereum deserves._&#x20;
-
-
-
+As the multichain economy continues to evolve, intents-based settlement is the key to solving interoperability and Across is at the core of its execution.

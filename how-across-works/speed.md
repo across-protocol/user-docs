@@ -4,13 +4,13 @@ description: >-
   receive funds
 ---
 
-# How Across Guarantees Transfers
+# Speed
 
-The Across protocol essentially provides an open market for profit-maximizing relayers to compete to fulfill bridge requests using their proprietary capital. Any bridge requests or "deposits" that are not fulfilled in a timely manner by relayers will eventually be fulfilled using the Across "system capital" supplied by liquidity providers ("LP's").
+Across Protocol essentially provides an open market for profit-maximizing relayers to compete to fulfill bridge requests using their proprietary capital. Any bridge requests or "deposits" that are not fulfilled in a timely manner by relayers will eventually be fulfilled using the Across "system capital" supplied by liquidity providers ("LP's").
 
 ## Fast Fills
 
-A bridge request contains a "relayer fee" percentage that can be used to incentivize relayers to fill their request on the destination chain quickly. Naturally, the higher the fee percentage, the faster a user would expect to have their deposit fulfilled. [Relayers assume finality risk](user-roles.md#relayer) so there is a fundamental cap on how quickly a deposit will be fulfilled.&#x20;
+A bridge request contains a "relayer fee" percentage that can be used to incentivize relayers to fill their request on the destination chain quickly. Naturally, the higher the fee percentage, the faster a user would expect to have their deposit fulfilled. Relayers assume finality risk, so there is a fundamental cap on how quickly a deposit will be fulfilled.&#x20;
 
 Typically, users can expect to receive their funds in 1–4 minutes due to the speed of relayers funding users' transfer requests upfront. Deposits that originate on chains with more frequent chain reorganizations (like Polygon) or longer block times (like Ethereum) will take longer to fulfill due to finality risk.&#x20;
 
@@ -20,11 +20,11 @@ Relayers wait through the challenge period, taking on 2 hours worth of liveness 
 
 ## Slow Fills
 
-In the event that relayers do not fill a deposit, it can be "slow filled" using LP capital. This means that an [Across Dataworker](user-roles.md) has flagged the deposit as being unfilled and wants the system to use its funds to fill the depositor. The depositor gets refunded the relayer fee in this case because the fill will take a longer time to complete.
+In the event that relayers do not fill a deposit, it can be "slow filled" using LP capital. This means that an Across Dataworker has flagged the deposit as being unfilled and wants the system to use its funds to fill the depositor. The depositor gets refunded the relayer fee in this case because the fill will take a longer time to complete.
 
-Since the slow fill is included in a dataworker's bundle, the fill will take as long as the optimistic challenge window takes to complete.
+Since the slow fill is included in a Dataworker's bundle, the fill will take as long as the optimistic challenge window takes to complete.
 
-A dataworker is made aware of these unfilled deposits by relayers who send partial fills for these deposits. These partial fills might look strange to users because they are "1 wei" fills: fills for 1 wei of the full deposited amount. This partial fill is important because it lets the dataworker know whether a deposit already has a slow fill payment enqueued for it.
+A Dataworker is made aware of these unfilled deposits by relayers who send partial fills for these deposits. These partial fills might look strange to users because they are "1 wei" fills: fills for 1 wei of the full deposited amount. This partial fill is important because it lets the dataworker know whether a deposit already has a slow fill payment enqueued for it.
 
 ## What affects the speed of the relayers?&#x20;
 
@@ -34,21 +34,13 @@ Finality risk is also a big factor when running a relayer, as mentioned above.
 
 ## A marketplace for exchanging investment time horizons
 
-Across has low fees and a great user experience for depositors because it elegantly enables agents, who are willing to lend capital for medium and long term time horizons (Relayers, LP's), to match with agents who are willing to pay for a short term loan (Depositors).&#x20;
+Across is able to provide low cross-chain transfer fees because it elegantly enables third parties, who are willing to lend capital for medium and long term time horizons (Relayers, LPs), to match with users who are willing to pay for a short term loan (Depositors).&#x20;
 
 Depositors signal their desire to have funds on a destination chain _instantaneously;_ relayers lend their funds to the depositor on the destination chain for a _medium term (e.g. two hours)_, and LP's are willing to lend their funds as a fallback to "slow fill" any deposit or to refund a relayer. LP capital is essentially the "capital of last resort" for the Across protocol.
 
 In order to act as the capital of last resort, LP capital is allocated throughout the system (i.e. across its HubPool and SpokePools deployed on each chain) to fulfill these slow fills and refund relayers. LP capital therefore can get stuck in the canonical bridges connecting chains when the system wants to reallocate the LP capital. These canonical bridges can freeze funds for a long time (up to seven days for optimistic rollup canonical bridges), so LP's intrinsically must have the longest time horizon within the Across system.
 
-## User fees are lowered by relayer competition
-
-Another reason why Across has such low fees is that it provides a marketplace for relayers to compete to fill user deposits. Relayers can tune how much finality risk they're willing to take on in order to win the most profitable deposits.&#x20;
-
-We imagine that relayers will eventually specialize in which tokens and destination chains they cover, allowing them to dominate their niche of the relayer market.
-
-You can think of the relayer competition as functioning like an auction. If the auction expires without a clearing price, then the Across system falls back to the LP capital to fulfill the deposit.
-
-This process ensures that depositors have the best chance to bridge their funds cheaply and quickly without sacrificing guaranteed execution.
+##
 
 ## An optimistic approach to bridging
 
