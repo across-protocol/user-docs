@@ -25,8 +25,6 @@ In September 2023, [a Snapshot proposal](https://snapshot.org/#/acrossprotocol.e
 * ~~5,000~~ → \~7,500 ACX per day for Across WBTC LP tokens
 * ~~20,000~~ → \~30,000 ACX per day for Across ACX LP tokens
 
-You can read more on this change and more on the benefits of reward locking [here](../../how-across-works/supported-chains-and-tokens.md).
-
 #### Information for Other Projects Looking To Implement Reward Locking
 
 Risk Labs (the foundation that supports UMA and Across Protocol) has  deployed a contract called the[ Accelerating Distributor](https://github.com/across-protocol/across-token/blob/master/contracts/AcceleratingDistributor.sol) ([audit](https://blog.openzeppelin.com/across-token-and-token-distributor-audit/)) to allow any project to implement the concept of reward locking. You can read the full details in our[ Reward Locking article](https://medium.com/across-protocol/introducing-reward-locking-78b26c792b11).
