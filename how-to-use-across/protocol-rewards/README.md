@@ -1,8 +1,8 @@
 ---
 description: >-
   $ACX is Across Protocol's native token. Protocol rewards are paid in $ACX to
-  liquidity providers and users who bridge through a referral link. Click the
-  subtabs in the menu bar to see program details.
+  liquidity providers who stake in Across protocol. Click the subtab in the menu
+  bar to see program details.
 ---
 
 # Protocol Rewards

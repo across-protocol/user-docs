@@ -6,7 +6,6 @@
 * [Bridging](how-to-use-across/bridging.md)
 * [Providing Bridge Liquidity](how-to-use-across/providing-bridge-liquidity.md)
 * [Protocol Rewards](how-to-use-across/protocol-rewards/README.md)
-  * [Referral Rewards](how-to-use-across/protocol-rewards/referral-rewards.md)
   * [Reward Locking](how-to-use-across/protocol-rewards/reward-locking.md)
 * [Transaction History](how-to-use-across/transaction-history.md)
 
