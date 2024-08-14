@@ -33,4 +33,4 @@
 * [FAQ](additional-info/faq.md)
 * [Support Links](additional-info/support-links.md)
 * [Migrating from V1](additional-info/migrating-from-v1.md)
-* [Brand Assets](additional-info/brand-assets.md)
+* [Across Brand Assets](additional-info/across-brand-assets.md)
