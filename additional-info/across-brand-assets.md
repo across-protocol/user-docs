@@ -2,7 +2,7 @@
 description: >-
   View and download different versions of the Across logo. The full Across
   Logotype and the Across Symbol are available in both SVG and PNG formats.
-cover: ../.gitbook/assets/Across-cover (4).png
+cover: ../.gitbook/assets/top image docs brand.png
 coverY: 0
 ---
 
