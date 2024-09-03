@@ -13,6 +13,8 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * UMA
 * BAL
 * SNX
+* POOL
+* LSK
 
 ### **Arbitrum**
 
@@ -24,6 +26,7 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * USDT
 * UMA
 * BAL
+* POOL
 
 ### **Optimism**
 
@@ -58,7 +61,7 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * USDC (USDbC)
 * BAL
 
-### **ZkSync**
+### **zkSync**
 
 * ETH/WETH
 * WBTC
@@ -74,3 +77,38 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * DAI
 * USDC
 * USDT
+
+### **Mode**
+
+* ETH/WETH
+* WBTC
+* USDC
+* USDT
+
+### **Lisk**
+
+* ETH/WETH
+* USDT
+* LSK
+
+### **Blast**
+
+* ETH/WETH
+* USDB
+* WBTC
+
+### **Scroll**
+
+* ETH/WETH
+* USDC
+* WBTC
+* USDT
+
+### **Redstone**
+
+* ETH/WETH
+
+### **Zora**
+
+* ETH/WETH
+* USDzC
