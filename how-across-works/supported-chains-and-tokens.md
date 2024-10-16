@@ -108,6 +108,12 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 
 * ETH/WETH
 
+### World Chain
+
+* ETH/WETH
+* USDC
+* WBTC
+
 ### **Zora**
 
 * ETH/WETH
