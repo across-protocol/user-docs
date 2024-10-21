@@ -4,10 +4,8 @@
 
 * Treasury Funding
 * Governance Updates
-* Committee implementation or replacement (future)
-* Protocol upgrades (future)
-
-Note: Risk Labs has historically acted as the only builder of Across Protocol. In order to enable others to contribute at a protocol level, we are in the process of outlining the protocol parameters and requirements for a protocol upgrade template. Stay tuned for more details.
+* Committee implementation or replacement
+* Protocol upgrades
 
 ## **Process**
 
@@ -27,4 +25,4 @@ Proposals that have been approved in step 2 are ready to be voted on and may be 
 
 ### **Step 4: Results**
 
-If a proposal passes Snapshot, it will be executed by the Across DAO Safe. The Across Council executes approved Snapshot proposals prior to the implementation of optimistic governance (more on optimistic governance once it is ready to be implemented).\
+If a proposal passes Snapshot, it will be executed by the Across DAO Safe.\
