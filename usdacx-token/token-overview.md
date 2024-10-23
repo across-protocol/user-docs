@@ -6,6 +6,4 @@ Governance token power was “turned on” at token launch (November 2022). The 
 
 To learn more about how oSnap is used by Across Protocol, please refer to this [article](https://medium.com/across-protocol/welcome-optimistic-governance-838cc649c431).
 
-In addition to governance, $ACX also incentivizes liquidity providers and those participating in the [Across Referral Link program](https://app.across.to/rewards/referrals).&#x20;
-
-You can see the token addresses [here](https://github.com/across-protocol/across-token/blob/master/README.md#addresses).
+Token addresses are listed [here](https://github.com/across-protocol/across-token/blob/master/README.md#addresses).
