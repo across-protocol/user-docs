@@ -60,7 +60,7 @@ The Risk Labs foundation supports a team working on Across, full-time. Risk Labs
 
 ### **How can I help Across win?**
 
-Join the [Across community in Discord](https://discord.across.to), [bridge with Across](https://across.to/), [LP in our pools](https://across.to/pool), send your [Across referral link](https://across.to/rewards) to your friends and participate in governance!
+Join the [Across community in Discord](https://discord.across.to), [bridge with Across](https://across.to/), [LP in our pools](https://across.to/pool), and participate in governance!
 
 ### How do I make contact?
 
