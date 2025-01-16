@@ -16,6 +16,10 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * POOL
 * LSK
 
+### **Aleph Zero**
+
+* WETH
+
 ### **Arbitrum**
 
 * ACX
@@ -27,6 +31,45 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * UMA
 * BAL
 * POOL
+
+### **Base**
+
+* ETH/WETH
+* DAI
+* USDC (USDbC)
+* BAL
+
+### **Blast**
+
+* ETH/WETH
+* USDB
+* WBTC
+
+### **Ink**
+
+* ETH/WETH
+
+### **Linea**
+
+* ETH/WETH
+* WBTC
+* DAI
+* USDC.e
+* USDT
+
+### **Lisk**
+
+* ETH/WETH
+* USDT
+* WBTC
+* LSK
+
+### **Mode**
+
+* ETH/WETH
+* WBTC
+* USDC
+* USDT
 
 ### **Optimism**
 
@@ -48,71 +91,43 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * WBTC
 * DAI
 * USDC
+* USDC.e
 * USDT
 * BAL
 * UMA
 * BAL
 * POOL
 
-### **Base**
+### **Redstone**
 
 * ETH/WETH
-* DAI
-* USDC (USDbC)
-* BAL
+
+### **Scroll**
+
+* ETH/WETH
+* USDC.e
+* WBTC
+* USDT
+
+### Soneium
+
+* ETH/WETH
+* USDC.e
+
+### World Chain
+
+* ETH/WETH
+* USDC.e
+* WBTC
 
 ### **zkSync**
 
 * ETH/WETH
 * WBTC
 * DAI
-* USDC
+* USDC.e
 * USDT
 * BAL
-
-### **Linea**
-
-* ETH/WETH
-* WBTC
-* DAI
-* USDC
-* USDT
-
-### **Mode**
-
-* ETH/WETH
-* WBTC
-* USDC
-* USDT
-
-### **Lisk**
-
-* ETH/WETH
-* USDT
-* LSK
-
-### **Blast**
-
-* ETH/WETH
-* USDB
-* WBTC
-
-### **Scroll**
-
-* ETH/WETH
-* USDC
-* WBTC
-* USDT
-
-### **Redstone**
-
-* ETH/WETH
-
-### World Chain
-
-* ETH/WETH
-* USDC
-* WBTC
 
 ### **Zora**
 
