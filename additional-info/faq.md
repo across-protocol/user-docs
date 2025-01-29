@@ -32,7 +32,7 @@ You can find this list on the [Supported Chains and Tokens page](https://docs.ac
 
 A liquidity provider (LP) is someone that provides liquidity to one of the Across pools. This liquidity is used to reimburse relayers after the relay has been verified by the optimistic oracle.&#x20;
 
-In return for providing this liquidity, LPs receive fees. These fees are described on the [Fees page](https://docs.across.to/how-across-works/fees).
+In return for providing this liquidity, LPs receive fees. These fees are described on the [Fees page](https://docs.across.to/reference/fees-in-the-system).
 
 Provided there is enough liquidity in the pool, a liquidity provider can withdraw their position at any time.
 
