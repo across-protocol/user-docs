@@ -114,6 +114,11 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * ETH/WETH
 * USDC.e
 
+### Unichain
+
+* ETH/WETH
+* USDC
+
 ### World Chain
 
 * ETH/WETH
