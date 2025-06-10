@@ -45,6 +45,12 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * USDB
 * WBTC
 
+### BNB Smart Chain
+
+* ETH/WETH
+* USDC (BNB)
+* USDT (BNB)
+
 ### **Ink**
 
 * ETH/WETH
