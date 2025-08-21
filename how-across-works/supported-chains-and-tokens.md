@@ -115,6 +115,10 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * WBTC
 * USDT
 
+### Solana
+
+* USDC
+
 ### Soneium
 
 * ETH/WETH
