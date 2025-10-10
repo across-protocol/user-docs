@@ -16,9 +16,14 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * POOL
 * LSK
 
-### **Aleph Zero**
+### **HyperEvm**
 
-* WETH
+* USDC
+* USDT0
+
+### **Plasma**
+
+* USDT0
 
 ### **Arbitrum**
 
