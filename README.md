@@ -4,7 +4,7 @@ description: Interoperability Powered by Intents
 
 # About
 
-Across is an interoperability protocol powered by intents. It is the only cross-chain intents protocol in production today, enabling the fastest and lowest-cost interoperability solution without security tradeoffs.\
+Across is an interoperability protocol powered by intents. It is the fastest, cheapest, most secure and decentralized way to bridge tokens and execute crosschain swaps.\
 \
 Across Protocol is comprised of three products.
 
