@@ -15,11 +15,15 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * SNX
 * POOL
 * LSK
+* WLD
+* VLR
+* WGHO
+* CAKE
 
 ### **HyperEvm**
 
 * USDC
-* USDT0
+* USDT
 
 ### **Plasma**
 
@@ -31,7 +35,7 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * ETH/WETH
 * WBTC
 * DAI
-* USDC (USDC.e)
+* USDC&#x20;
 * USDT
 * UMA
 * BAL
@@ -41,12 +45,14 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 
 * ETH/WETH
 * DAI
-* USDC (USDbC)
+* USDC&#x20;
+* USDT
+* POOL
+* VLR
 * BAL
 
 ### **Blast**
 
-* ETH/WETH
 * USDB
 * WBTC
 
@@ -55,17 +61,24 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * ETH/WETH
 * USDC (BNB)
 * USDT (BNB)
+* CAKE
 
 ### **Ink**
 
 * ETH/WETH
+
+### Lens
+
+* WGHO
+* WETH
+* USDC
 
 ### **Linea**
 
 * ETH/WETH
 * WBTC
 * DAI
-* USDC.e
+* USDC
 * USDT
 
 ### **Lisk**
@@ -74,12 +87,13 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * USDT
 * WBTC
 * LSK
+* USDC.e
 
 ### **Mode**
 
 * ETH/WETH
 * WBTC
-* USDC
+* USDC.e
 * USDT
 
 ### **Optimism**
@@ -94,6 +108,8 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * SNX
 * BAL
 * POOL
+* VLR
+* WLD
 
 ### **Polygon**
 
@@ -106,7 +122,6 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * USDT
 * BAL
 * UMA
-* BAL
 * POOL
 
 ### **Redstone**
@@ -116,9 +131,10 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 ### **Scroll**
 
 * ETH/WETH
-* USDC.e
+* USDC
 * WBTC
 * USDT
+* POOL
 
 ### Solana
 
@@ -137,7 +153,9 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 ### World Chain
 
 * ETH/WETH
-* USDC.e
+* USDC
+* POOL
+* WLD
 * WBTC
 
 ### **zkSync**
@@ -147,7 +165,6 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 * DAI
 * USDC.e
 * USDT
-* BAL
 
 ### **Zora**
 
