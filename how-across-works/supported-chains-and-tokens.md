@@ -27,7 +27,7 @@ Below is a list of the supported tokens for each of the chains that Across suppo
 
 ### **Plasma**
 
-* USDT0
+* USDT0 (USDT)
 
 ### **Arbitrum**
 
