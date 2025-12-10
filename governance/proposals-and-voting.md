@@ -25,4 +25,8 @@ Proposals that have been approved in step 2 are ready to be voted on and may be 
 
 ### **Step 4: Results**
 
-If a proposal passes Snapshot, it will be executed by the Across DAO Safe.\
+If a proposal passes Snapshot, it will be executed by the Across DAO Safe.
+
+**Criteria for passing**\
+FOR + AGAINST + ABSTAIN >= QUORUM\
+AND FOR > AGAINST<br>
