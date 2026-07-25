@@ -11,3 +11,7 @@ Relayers can tune how much finality risk they're willing to take on in order to 
 You can think of the relayer competition as functioning like an auction. If the auction expires without a clearing price, then the Across system falls back to the LP capital to fulfill the deposit. This process ensures that depositors have the best chance to bridge their funds cheaply and quickly without sacrificing guaranteed execution.
 
 In Across V3, these prices will become more competitive when RFQ front end systems are in place.
+
+## Third-party fee measurements
+
+For an independent, continuously updated comparison of Across's end-to-end user cost (fees + slippage + destination gas) against other cross-chain bridges, see [OpenChainBench's bridge fee benchmark](https://openchainbench.com/benchmarks/bridge-fee). The benchmark samples $300 USDC transfers across Solana, Base, and Arbitrum corridors and publishes all data under CC BY 4.0 with the harness open sourced on GitHub.
